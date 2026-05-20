@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am a Software Engineer specializing in building scalable, cloud-native, and secure digital
+        I am a Software Developer specializing in building scalable, cloud-native, and secure digital
         platforms. At <a href="https://www.publicissapient.com/" target="_blank" rel="noreferrer">
           Publicis Sapient
         </a>, I focus on developing accessible, developer-centric

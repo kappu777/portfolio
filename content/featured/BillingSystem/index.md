@@ -1,8 +1,8 @@
 ---
 date: '1'
 title: 'Billing System'
-cover: './halcyon.png'
-github: 'https://github.com/kapil777/kapil'
+cover: './Billing_System.png'
+github: 'https://github.com/kappu777/Billing_System'
 tech:
   - Python
   - Django

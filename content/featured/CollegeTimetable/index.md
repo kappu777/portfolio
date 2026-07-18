@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'College Timetable'
-cover: './course-card.png'
+cover: './demo.png'
 github: 'https://github.com/kapil777/AbesecTimetable'
 tech:
   - Flask
